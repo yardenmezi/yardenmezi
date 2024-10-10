@@ -13,4 +13,4 @@
 - Check out my articles on Medium for insights on coding and software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yarden-mezi)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@yourprofile)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@yardenme)
